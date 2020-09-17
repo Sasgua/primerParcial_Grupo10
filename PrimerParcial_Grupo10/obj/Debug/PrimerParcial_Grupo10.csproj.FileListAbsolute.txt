@@ -1,0 +1,7 @@
+C:\Users\Mega Tecnologia\source\repos\PrimerParcial_Grupo10\PrimerParcial_Grupo10\bin\Debug\PrimerParcial_Grupo10.exe.config
+C:\Users\Mega Tecnologia\source\repos\PrimerParcial_Grupo10\PrimerParcial_Grupo10\bin\Debug\PrimerParcial_Grupo10.exe
+C:\Users\Mega Tecnologia\source\repos\PrimerParcial_Grupo10\PrimerParcial_Grupo10\bin\Debug\PrimerParcial_Grupo10.pdb
+C:\Users\Mega Tecnologia\source\repos\PrimerParcial_Grupo10\PrimerParcial_Grupo10\obj\Debug\PrimerParcial_Grupo10.csprojAssemblyReference.cache
+C:\Users\Mega Tecnologia\source\repos\PrimerParcial_Grupo10\PrimerParcial_Grupo10\obj\Debug\PrimerParcial_Grupo10.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\source\repos\PrimerParcial_Grupo10\PrimerParcial_Grupo10\obj\Debug\PrimerParcial_Grupo10.exe
+C:\Users\Mega Tecnologia\source\repos\PrimerParcial_Grupo10\PrimerParcial_Grupo10\obj\Debug\PrimerParcial_Grupo10.pdb
